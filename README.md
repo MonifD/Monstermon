@@ -1,4 +1,4 @@
-# Groupe de baille_c 1029896
+# SQL query
 
 ## 1er étape
 création d'un schéma de base de donnée, qui contient toutes les informations du jeu, comme les dresseurs et les monstres etc...
